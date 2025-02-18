@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/NFvpyWQRMKQ">
-  <img src="https://img.youtube.com/vi/NFvpyWQRMKQ/0.jpg" alt="Map, Filter & Reduce & their Polyfills" />
+  <img src="" alt="Map, Filter & Reduce & their Polyfills" />
   </a>
 </p>
 
